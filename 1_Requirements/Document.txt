@@ -1,0 +1,25 @@
+The advantage and importance of this project :
+
+1- It first advantage of this project is that to able to track the data of all the students.
+
+2- it is very easy to simplyfy the work of the and all the tasks.
+
+3- the advantage of this to have a better communication to the all, have the summary of all the students and all.
+
+4- it is easy to access the work, and beneficial in the teacher parents meetings.
+
+
+
+
+
+CODES HAVE THE FOLLOWING CONTENTS-
+
+1- Functions
+2- Pointers
+3- Multifile
+4- Makefile
+
+
+
+
+
