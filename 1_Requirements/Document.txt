@@ -1,4 +1,4 @@
-The advantage and importance of this project :
+The requirements and importance of this project :
 
 1- It first advantage of this project is that to able to track the data of all the students.
 
@@ -12,7 +12,7 @@ The advantage and importance of this project :
 
 
 
-CODES HAVE THE FOLLOWING CONTENTS-
+CODES REQUIREMENTS  HAVE THE FOLLOWING CONTENTS-
 
 1- Functions
 2- Pointers
